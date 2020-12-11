@@ -1,0 +1,62 @@
+2020-12-11 13:53:50  [ main:0 ] - [ INFO ]  conversation is connecting
+2020-12-11 13:53:51  [ main:621 ] - [ WARN ]  removeAbandoned is true, not use in production.
+2020-12-11 13:53:54  [ main:3229 ] - [ INFO ]  {dataSource-1} inited
+2020-12-11 13:53:54  [ main:3705 ] - [ INFO ]  power data info collect success ,save success ! 
+2020-12-11 14:03:42  [ main:0 ] - [ INFO ]  conversation is connecting
+2020-12-11 14:03:43  [ main:479 ] - [ WARN ]  removeAbandoned is true, not use in production.
+2020-12-11 14:03:44  [ main:1408 ] - [ INFO ]  {dataSource-1} inited
+2020-12-11 14:03:45  [ main:2317 ] - [ INFO ]  power data info collect success ,save success ! 
+2020-12-11 14:09:17  [ main:0 ] - [ INFO ]  conversation is connecting
+2020-12-11 14:09:17  [ main:478 ] - [ WARN ]  removeAbandoned is true, not use in production.
+2020-12-11 14:09:19  [ main:2317 ] - [ INFO ]  {dataSource-1} inited
+2020-12-11 14:09:19  [ main:2729 ] - [ INFO ]  power data info collect success ,save success ! 
+2020-12-11 14:29:46  [ main:0 ] - [ INFO ]  conversation is connecting
+2020-12-11 14:29:47  [ main:698 ] - [ WARN ]  removeAbandoned is true, not use in production.
+2020-12-11 14:29:49  [ main:2625 ] - [ INFO ]  {dataSource-1} inited
+2020-12-11 14:29:49  [ main:3182 ] - [ INFO ]  power data info collect success ,save success ! 
+2020-12-11 14:38:20  [ main:0 ] - [ INFO ]  conversation is connecting
+2020-12-11 14:38:21  [ main:551 ] - [ WARN ]  removeAbandoned is true, not use in production.
+2020-12-11 14:38:22  [ main:1796 ] - [ INFO ]  {dataSource-1} inited
+2020-12-11 14:38:22  [ main:2252 ] - [ INFO ]  power data info collect success ,save success ! 
+2020-12-11 14:39:22  [ main:62275 ] - [ INFO ]  conversation is connecting
+2020-12-11 14:39:23  [ main:62805 ] - [ INFO ]  power data info collect success ,save success ! 
+2020-12-11 14:46:35  [ main:0 ] - [ INFO ]  conversation is connecting
+2020-12-11 14:46:35  [ main:486 ] - [ WARN ]  removeAbandoned is true, not use in production.
+2020-12-11 14:46:36  [ main:1264 ] - [ INFO ]  {dataSource-1} inited
+2020-12-11 14:46:37  [ main:2050 ] - [ INFO ]  power data info collect success ,save success ! 
+2020-12-11 14:54:47  [ main:0 ] - [ INFO ]  conversation is connecting
+2020-12-11 14:54:48  [ main:817 ] - [ WARN ]  removeAbandoned is true, not use in production.
+2020-12-11 14:54:49  [ main:2365 ] - [ INFO ]  {dataSource-1} inited
+2020-12-11 14:54:50  [ main:2812 ] - [ INFO ]  power data info collect success ,save success ! 
+2020-12-11 14:55:50  [ main:62835 ] - [ INFO ]  conversation is connecting
+2020-12-11 14:55:50  [ main:63365 ] - [ INFO ]  power data info collect success ,save success ! 
+2020-12-11 14:58:47  [ main:0 ] - [ INFO ]  conversation is connecting
+2020-12-11 14:58:48  [ main:397 ] - [ WARN ]  removeAbandoned is true, not use in production.
+2020-12-11 14:58:49  [ main:1530 ] - [ INFO ]  {dataSource-1} inited
+2020-12-11 14:58:49  [ main:2351 ] - [ INFO ]  power data info collect success ,save success ! 
+2020-12-11 15:02:42  [ main:0 ] - [ INFO ]  conversation is connecting
+2020-12-11 15:02:42  [ main:439 ] - [ WARN ]  removeAbandoned is true, not use in production.
+2020-12-11 15:02:44  [ main:2453 ] - [ INFO ]  {dataSource-1} inited
+2020-12-11 15:02:44  [ main:2902 ] - [ INFO ]  power data info collect success ,save success ! 
+2020-12-11 15:05:38  [ main:0 ] - [ INFO ]  conversation is connecting
+2020-12-11 15:05:39  [ main:442 ] - [ WARN ]  removeAbandoned is true, not use in production.
+2020-12-11 15:05:40  [ main:2113 ] - [ INFO ]  {dataSource-1} inited
+2020-12-11 15:05:41  [ main:2541 ] - [ INFO ]  power data info collect success ,save success ! 
+2020-12-11 15:30:53  [ main:0 ] - [ INFO ]  conversation is connecting
+2020-12-11 15:30:53  [ main:646 ] - [ WARN ]  removeAbandoned is true, not use in production.
+2020-12-11 15:30:54  [ main:1462 ] - [ INFO ]  {dataSource-1} inited
+2020-12-11 15:30:55  [ main:1924 ] - [ INFO ]  power data info collect success ,save success ! 
+2020-12-11 15:31:55  [ main:61974 ] - [ INFO ]  conversation is connecting
+2020-12-11 15:31:55  [ main:62484 ] - [ INFO ]  power data info collect success ,save success ! 
+2020-12-11 15:37:04  [ main:0 ] - [ INFO ]  conversation is connecting
+2020-12-11 15:37:05  [ main:484 ] - [ WARN ]  removeAbandoned is true, not use in production.
+2020-12-11 15:37:07  [ main:2477 ] - [ INFO ]  {dataSource-1} inited
+2020-12-11 15:37:08  [ main:3445 ] - [ INFO ]  power data info collect success ,save success ! 
+2020-12-11 16:07:46  [ main:0 ] - [ INFO ]  conversation is connecting
+2020-12-11 16:07:47  [ main:598 ] - [ WARN ]  removeAbandoned is true, not use in production.
+2020-12-11 16:07:49  [ main:2555 ] - [ INFO ]  {dataSource-1} inited
+2020-12-11 16:07:49  [ main:3286 ] - [ INFO ]  power data info collect success ,save success ! 
+2020-12-11 16:21:36  [ main:0 ] - [ INFO ]  conversation is connecting
+2020-12-11 16:21:37  [ main:661 ] - [ WARN ]  removeAbandoned is true, not use in production.
+2020-12-11 16:21:41  [ main:4558 ] - [ INFO ]  {dataSource-1} inited
+2020-12-11 16:21:41  [ main:5155 ] - [ INFO ]  power data info collect success ,save success ! 
