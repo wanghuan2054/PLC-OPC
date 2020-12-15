@@ -41,7 +41,7 @@ public class DruidJDBCPool {
             if(dataSource==null){
                 dataSource=new DruidDataSource();
                 //设置连接参数
-                dataSource.setUrl("jdbc:oracle:thin:@10.120.8.20:1521:MDWDB1");
+                dataSource.setUrl("jdbc:oracle:thin:@XX.XX.XX.XX:1521:MDWDB1");
                 dataSource.setDriverClassName("oracle.jdbc.OracleDriver");
                 dataSource.setUsername("edbadm");
                 dataSource.setPassword("edbadm");
